@@ -4,5 +4,5 @@ This project- "Services- Assest and Entitlement" was our hackathon model. It tak
 is applied to predict future trends of Demands(Product & Regional) and Supply(Revenue) supported by graphs. It has a Dashboard loaded with 
 features to do the same.
 
-The Google Drive's Link for the Android App-
-https://drive.google.com/open?id=1NtS-GpM0YvVFUIglX342TiC-tUkMrz_k
+The Box Link for the Complete Android App-
+https://app.box.com/s/xobjci4dp3d307o8tslnl1a18e2r4bmo
